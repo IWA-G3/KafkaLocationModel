@@ -1,4 +1,4 @@
-package polytech.group3.iwa.kafka-location-model;
+package polytech.group3.iwa.kafka_location_model;
 
 
 public class LocationKafka {
